@@ -1,4 +1,4 @@
 Tapijt
 ======
 
--© Dirk Kremers
+© Dirk Kremers
